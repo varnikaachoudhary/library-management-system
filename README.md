@@ -1,0 +1,1 @@
+This project is a console-based Library Management System in C that manages books, issues, and returns using student details. It includes password authentication, file handling for data storage, and transaction logging with timestamps, demonstrating core concepts like structures, functions, and string handling.
